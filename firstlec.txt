@@ -1,0 +1,87 @@
+C - structure programming
+1979 - Bjarne Stroustrup
+1)Very nearest to H/w - memory management
+2)Oops - object oriented Programming
+3)C++ knowledge
+
+class & object
+abstraction,encapsulation
+polymorphism
+inheritance
+
+Application of C++
+Mac os,linux
+MRI machine
+
+
+C++ ---- Object Oriented Proegramming
+4 principles
+1)class & objects - object [run time entity] 
+2)Abstraction[data hiding] & 
+	encapsulation [wrapping up of data into single unit]
+3)Inheritance [parents -child]
+4)Polymorphism [one name multiple form]
+
+
+Access Specifier - Public,private[default],protected
+
+//this keyword - current/nearest value /object point
+//access private members of class - use this keyword
+
+
+if we want to use function outside class - we must use classname::[scope resolution sign]
+
+Constructor
+->Special member function.
+->Classname & functionname same.
+->Always public section
+->No return type 
+->When object is created,constructor automatically called.
+
+
+Types of Constructor
+1)Default Constructor
+2)Parameterized Constructor
+3)Copy Constructor
+
+-->Destructor - To delete objects created by constructor
+
+~ tilde sign use
+-->no arguments
+-->automatically called after constructor
+
+Inheritance - parents - child concept
+
+1)single 
+2)multiple
+3)multilevel
+4)Hierarchical 
+5)Hybrid
+
+
+
+
+
+
+
+
+
+
+Polymorphism
+
+-->One name multiple form
+1)Runtime (dynamic binding) late binding
+2)Compile time (static binding) early binding
+
+
+
+
+
+
+
+
+
+
+
+
+
